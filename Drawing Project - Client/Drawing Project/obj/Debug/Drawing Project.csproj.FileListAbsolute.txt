@@ -1,0 +1,30 @@
+C:\Users\LENOVO IDEAPAD\source\repos\Drawing Project\Drawing Project\obj\Debug\Drawing_Project.Form1.resources
+C:\Users\LENOVO IDEAPAD\source\repos\Drawing Project\Drawing Project\obj\Debug\Drawing_Project.Properties.Resources.resources
+C:\Users\LENOVO IDEAPAD\source\repos\Drawing Project\Drawing Project\obj\Debug\Drawing Project.csproj.GenerateResource.cache
+C:\Users\LENOVO IDEAPAD\source\repos\Drawing Project\Drawing Project\obj\Debug\Drawing Project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO IDEAPAD\source\repos\Drawing Project\Drawing Project\bin\Debug\Drawing Project.exe.config
+C:\Users\LENOVO IDEAPAD\source\repos\Drawing Project\Drawing Project\bin\Debug\Drawing Project.exe
+C:\Users\LENOVO IDEAPAD\source\repos\Drawing Project\Drawing Project\bin\Debug\Drawing Project.pdb
+C:\Users\LENOVO IDEAPAD\source\repos\Drawing Project\Drawing Project\obj\Debug\Drawing Project.exe
+C:\Users\LENOVO IDEAPAD\source\repos\Drawing Project\Drawing Project\obj\Debug\Drawing Project.pdb
+C:\Users\LENOVO IDEAPAD\source\repos\Drawing Project\Drawing Project\obj\Debug\Drawing Project.csprojAssemblyReference.cache
+C:\Users\LENOVO IDEAPAD\Documents\Drawing Project - Client\Drawing Project\bin\Debug\Drawing Project.exe.config
+C:\Users\LENOVO IDEAPAD\Documents\Drawing Project - Client\Drawing Project\bin\Debug\Drawing Project.exe
+C:\Users\LENOVO IDEAPAD\Documents\Drawing Project - Client\Drawing Project\bin\Debug\Drawing Project.pdb
+C:\Users\LENOVO IDEAPAD\Documents\Drawing Project - Client\Drawing Project\obj\Debug\Drawing Project.csprojAssemblyReference.cache
+C:\Users\LENOVO IDEAPAD\Documents\Drawing Project - Client\Drawing Project\obj\Debug\Drawing_Project.Form1.resources
+C:\Users\LENOVO IDEAPAD\Documents\Drawing Project - Client\Drawing Project\obj\Debug\Drawing_Project.Properties.Resources.resources
+C:\Users\LENOVO IDEAPAD\Documents\Drawing Project - Client\Drawing Project\obj\Debug\Drawing Project.csproj.GenerateResource.cache
+C:\Users\LENOVO IDEAPAD\Documents\Drawing Project - Client\Drawing Project\obj\Debug\Drawing Project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO IDEAPAD\Documents\Drawing Project - Client\Drawing Project\obj\Debug\Drawing Project.exe
+C:\Users\LENOVO IDEAPAD\Documents\Drawing Project - Client\Drawing Project\obj\Debug\Drawing Project.pdb
+C:\Users\LENOVO IDEAPAD\Documents\1760372_120\Drawing Project - Client\Drawing Project\bin\Debug\Drawing Project.exe.config
+C:\Users\LENOVO IDEAPAD\Documents\1760372_120\Drawing Project - Client\Drawing Project\bin\Debug\Drawing Project.exe
+C:\Users\LENOVO IDEAPAD\Documents\1760372_120\Drawing Project - Client\Drawing Project\bin\Debug\Drawing Project.pdb
+C:\Users\LENOVO IDEAPAD\Documents\1760372_120\Drawing Project - Client\Drawing Project\obj\Debug\Drawing Project.csprojAssemblyReference.cache
+C:\Users\LENOVO IDEAPAD\Documents\1760372_120\Drawing Project - Client\Drawing Project\obj\Debug\Drawing_Project.Form1.resources
+C:\Users\LENOVO IDEAPAD\Documents\1760372_120\Drawing Project - Client\Drawing Project\obj\Debug\Drawing_Project.Properties.Resources.resources
+C:\Users\LENOVO IDEAPAD\Documents\1760372_120\Drawing Project - Client\Drawing Project\obj\Debug\Drawing Project.csproj.GenerateResource.cache
+C:\Users\LENOVO IDEAPAD\Documents\1760372_120\Drawing Project - Client\Drawing Project\obj\Debug\Drawing Project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO IDEAPAD\Documents\1760372_120\Drawing Project - Client\Drawing Project\obj\Debug\Drawing Project.exe
+C:\Users\LENOVO IDEAPAD\Documents\1760372_120\Drawing Project - Client\Drawing Project\obj\Debug\Drawing Project.pdb
