@@ -5,7 +5,11 @@
 1. Visual Studio(my version 2019).  
 2. Dotnet C#: 4.6(my version).  
 3. Good laptop(or computer) can run server and client.  
-
+(Note: if you get error "Couldn't process file Form1.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.	Drawing Project", let try:  
+          1. Right click the resx file, open the properties and check the option 'Unblock'
+          2. Repeat for each resx file.
+          3. Reload the project.)
+            
 # Features:  
 * Select shape and the size of pencil, then draw:  
 ![alt](https://user-images.githubusercontent.com/48643699/82746031-7709e500-9db5-11ea-9eea-6e8d6d899d86.png)  
